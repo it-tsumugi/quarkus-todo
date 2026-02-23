@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# 環境変数
+.env
+.env.local
+.env*.local
+
+# Claude Code
+.claude/
+
+# Quarkus dev mode cache
+.quarkus/
+
+# Maven ビルド成果物
+backend/target/
+
+# Next.js
+frontend/.next/
+frontend/node_modules/
